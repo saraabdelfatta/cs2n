@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cstdlib>
 #include <cstring>
+#include<string>
 
 using namespace std;
 const char BRIDGE = char(175), WATER = char(219), ISLAND = char(32), CAT = 'X', MOUSE = '*';
